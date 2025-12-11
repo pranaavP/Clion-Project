@@ -46,6 +46,14 @@ Betting System:
 
 ## **Classes**
 
+Main:
+
+  - Entry point of the game.
+
+  - Handles player registration, input validation, and starts the game loop.
+
+  - Initializes MarbleRacingGame with player names and marble names.
+
 Marble:
 
   - Represents a marble in the race.
