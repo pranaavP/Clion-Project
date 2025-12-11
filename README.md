@@ -134,9 +134,9 @@ Enter 1 marble to win: Red
 
 Race starting...
 
-o      |  <-- Red
+o               |  <-- Red
 
-   o   |  <-- Blue
+   o                |  <-- Blue
    
 ... (race animation)
 
