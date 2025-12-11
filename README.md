@@ -8,7 +8,7 @@ Overview:
 The Marble Racing Game is an game where players can bet on marbles racing to the finish line. Players place strategic bets on marble outcomes and win coins based on their predictions. The game features multiple betting methods, animated marble races, and a coin-based system.
 This project demonstrates object-oriented design, random number generation, user input validation, and game loop mechanics in C++.
 
-Features
+**Features**
 
 Animated Marble Races:
 
@@ -44,7 +44,7 @@ Betting System:
 
   - All winnings are applied to the player’s coin balance immediately.
 
-Classes
+**Classes**
 
 Marble:
 
@@ -70,7 +70,7 @@ MarbleRacingGame:
 
   - Coordinates players, races, betting, and overall game flow.
 
-How to Play
+**How to Play**
 
 1. Run the game executable.
 
@@ -94,13 +94,13 @@ How to Play
 
     - All other players are eliminated.
   
-Requirements:
+**Requirements:**
 
   - C++17 or later
 
   - Standard C++ libraries: <vector>, <string>, <iostream>, <algorithm>, <thread>, <chrono>, <cstdlib>
 
-Program Example: 
+**Program Example:**
 
 Welcome to the Marble Racing Game!
 
