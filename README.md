@@ -1,8 +1,8 @@
 Marble Racing Game
 
-Author: Pranaav Paladugu
+Pranaav Paladugu
 
-Date: 11/4/2025
+11/4/2025
 
 Overview:
 The Marble Racing Game is an game where players can bet on marbles racing to the finish line. Players place strategic bets on marble outcomes and win coins based on their predictions. The game features multiple betting methods, animated marble races, and a coin-based system.
