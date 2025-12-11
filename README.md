@@ -105,28 +105,51 @@ MarbleRacingGame:
 Welcome to the Marble Racing Game!
 
 Enter player name: Alice
+
 1. Add another player
+   
 2. Begin the game
+   
 Choose an option: 1
+
 Enter player name: Bob
+
 1. Add another player
+   
 2. Begin the game
+
 Choose an option: 2
 
 Alice, it's your turn!
+
 Choose a betting method:
+
 1. Exact order of all marbles | Cost: 15 | Reward: 500
+
 ...
+
 Enter your choice (1-9): 2
+
 Enter 1 marble to win: Red
+
 Race starting...
+
 o      |  <-- Red
+
    o   |  <-- Blue
+   
 ... (race animation)
+
 Race finished!
+
 Ranking:
+
 1. Blue
+   
 2. Red
+
 ...
+
 Alice won 0 coins!
+
 Alice has 85 coins.
